@@ -9,7 +9,7 @@ Este projeto, desenvolvido para a disciplina de *Edge Computing & Computer Syste
 A simulação e o desenvolvimento inicial foram realizados na plataforma **Wokwi**, que permite testar o hardware e o firmware em um ambiente virtual antes da implementação física.
 
 ## Vídeo do funcionamento do projeto no WokWi
-* **Link do vídeo:** [Wokwi]((https://www.youtube.com/watch?v=JuYNuq8R-2Q))
+* **Link do vídeo:** [Youtube](https://www.youtube.com/watch?v=JuYNuq8R-2Q)
 
 ## Tecnologias e Componentes Utilizados
 
@@ -20,7 +20,7 @@ A simulação e o desenvolvimento inicial foram realizados na plataforma **Wokwi
 
 ### Software e Plataformas
 * **Linguagem de Programação:** C++ (no framework Arduino)
-* **Plataforma de Simulação:** [Wokwi]((https://wokwi.com/projects/441026061148783617))
+* **Plataforma de Simulação:** [Wokwi](https://wokwi.com/projects/441026061148783617)
 * **Plataforma Cloud IoT:** [ThingSpeak](https://thingspeak.com/)
 * **Bibliotecas Arduino:**
     * `WiFi.h`
